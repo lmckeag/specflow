@@ -1,0 +1,12 @@
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\obj\Debug\SpecflowIntro.csproj.CoreCompileInputs.cache
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\SpecflowIntro.exe.config
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\SpecflowIntro.exe
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\SpecflowIntro.pdb
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\nunit.framework.dll
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\nunit.framework.xml
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\obj\Debug\SpecflowIntro.exe
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\obj\Debug\SpecflowIntro.pdb
+C:\Users\LeeM\source\repos\SpecflowIntro\SpecflowIntro\obj\Debug\SpecflowIntro.csprojResolveAssemblyReference.cache
